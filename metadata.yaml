@@ -1,0 +1,52 @@
+_repo: Italian-courtesy-books-b-Fra-Bonvicino-da-Riva-s-fifty-courtesies-for-the-table-Italian-and-E__75723
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rossetti, William Michael
+    aliases:
+    - Rossetti, W. M. (William Michael)
+    - Rosetti, William Michael
+    birthdate: 1829
+    deathdate: 1919
+    gutenberg_agent_id: '2718'
+    url: http://www.gutenberg.org/2009/agents/2718
+    wikipedia: https://en.wikipedia.org/wiki/William_Michael_Rossetti
+creator:
+  author:
+    agent_name: Bonvesin, da la Riva
+    aliases:
+    - Bonvesin, da Riva
+    - Bonvicinus, de Ripa
+    - Bonvicinus, de Rippa
+    - Buonvicino, da Riva
+    - Da la Riva, Bonvesin
+    - Ripa, Bonvicinus de
+    - Rippa, Bonvicinus de
+    - Riva, Bonvesin da la
+    - Riva, Buonvicino da
+    - Riva, Bonvicino da
+    gutenberg_agent_id: '58119'
+    url: http://www.gutenberg.org/2009/agents/58119
+    wikipedia: https://en.wikipedia.org/wiki/Bonvesin_da_la_Riva
+description: ''
+gutenberg_issued: '2025-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75723'
+language: en
+pgterms:marc904: https://archive.org/details/italiancourtesyb00rossuoft/page/n5/mode/2up
+pgterms:marc905: 20240616140226rossetti
+pgterms:marc906: '1869'
+pgterms:marc907: GB
+production_note: Mairi and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtesy books -- Early works to 1800'
+- !lcc 'BJ'
+- GITenberg
+title: 'Italian courtesy-books : $b Fra Bonvicino da Riva''s fifty courtesies for
+  the table (Italian and English) with other translations and elucidations'
+url: http://www.gutenberg.org/ebooks/75723
