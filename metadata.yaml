@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '2718'
     url: http://www.gutenberg.org/2009/agents/2718
     wikipedia: https://en.wikipedia.org/wiki/William_Michael_Rossetti
+covers:
+- cover_type: archival
+  image_path: 75723-h/images/cover.jpg
 creator:
   author:
     agent_name: Bonvesin, da la Riva
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58119
     wikipedia: https://en.wikipedia.org/wiki/Bonvesin_da_la_Riva
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75723#Italian-courtesy-books-b-Fra-Bonvicino-da-Riva-s-fifty-courtesies-for-the-table-Italian-and-E_
 gutenberg_issued: '2025-03-26'
 gutenberg_type: Text
 identifiers:
